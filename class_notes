@@ -31,4 +31,17 @@ Notes:
 
 #Code coverage -> want to test a large amount of the code
     Can compute code coverage
+
+#To test random things, use a known seed
+
+#Test-driven development
+    #Start with your tests in mind, then write the code to do it
+    #Start going through all the tests 
+
+#Testing final result -> system test
+#In test design, go from fast to slow
+    #Unit tests fast (smol, nuggets of code)
+    
+#Continuous Integration for Automated Testing
+    #Somethign automatically tests the code when you try and run it
 """
