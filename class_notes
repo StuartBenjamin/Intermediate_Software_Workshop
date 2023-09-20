@@ -19,4 +19,14 @@ Notes:
 #   git checkout -b name_of_branch_of_branch1
 
 #Use linters to automatically check your coding conventions 
+
+#testing -> make sure code does the same thing regardless of the changes you make
+    #replicate known result and input
+
+#In test_models.py
+    #Use functions so that you can run multiple tests (without functions, it stops after first error)
+
+#Use some smart package
+    #Eg pytest will run all functions that start with <test>
+
 """
