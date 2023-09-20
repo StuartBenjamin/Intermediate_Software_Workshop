@@ -1,0 +1,22 @@
+"""
+Notes:
+
+#docker
+#github will tell you when it can't merge things
+    #you have to resolve manually
+#VSC has a merge contradiction editor
+
+#Rebasing from main (put in changes as they occurred chronologically)
+    #Merge main into your branch consistently is the smartest thing to do
+
+#Create new branch: git branch develop 
+#Can just use publish branch, or 
+
+#git pull before pushing every time
+
+#make branch of branch with: 
+#   git checkout branch1
+#   git checkout -b name_of_branch_of_branch1
+
+#Use linters to automatically check your coding conventions 
+"""
