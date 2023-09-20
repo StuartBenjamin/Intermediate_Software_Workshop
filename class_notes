@@ -29,4 +29,6 @@ Notes:
 #Use some smart package
     #Eg pytest will run all functions that start with <test>
 
+#Code coverage -> want to test a large amount of the code
+    Can compute code coverage
 """
