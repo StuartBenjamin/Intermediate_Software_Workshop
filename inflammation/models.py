@@ -5,6 +5,12 @@ The Model layer is responsible for the 'business logic' part of the software.
 Patients' data is held in an inflammation table (2D array) where each row contains 
 inflammation data for a single patient taken over a number of days 
 and each column represents a single day across all patients.
+
+Functions:  
+    load_csv
+    daily_mean
+    daily_max
+    daily_min
 """
 
 import numpy as np
