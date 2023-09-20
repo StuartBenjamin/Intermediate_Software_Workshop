@@ -44,4 +44,7 @@ Notes:
     
 #Continuous Integration for Automated Testing
     #Somethign automatically tests the code when you try and run it
+
+#Use the yaml to auto-build
+#Use codecov to get your project tested on github
 """
